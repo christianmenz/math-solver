@@ -1,0 +1,5 @@
+gurobipy==9.5.2
+matplotlib==3.6.0
+numpy==1.23.3
+pandas==1.4.4
+pip-tools==6.8.0
