@@ -3,7 +3,7 @@
 ## Install dependencies
 `pip install -r requirements.txt`
 
-## Add a dependnecy
+## Add a dependency
 1. add the dependency to requirements.in
 2. run `pip-compile` to generate the new requirements.txt
 3. install `pip install -r requirements.txt`
